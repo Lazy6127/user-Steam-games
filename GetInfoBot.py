@@ -10,5 +10,3 @@ class GetInfo:
         for game in response['response']['games']:
             games += game['name'] + '\n'
         return games
-
-# '76561199144113035'
