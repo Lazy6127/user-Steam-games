@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from GetInfoBot import GetInfo
 
-TOKEN = '1747416709:AAH31_v37EuvyEp4wDBtnt0VLngtxVYKZf8'
+TOKEN = 'API_KEY'
 bot = Bot(TOKEN)
 disp = Dispatcher(bot)
 
